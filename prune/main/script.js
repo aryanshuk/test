@@ -1,4 +1,4 @@
-serverIP = "43.205.206.244";
+serverIP = "containertooltest.ddns.net";
 
 //remove all the volumes part
 function removeAllVolumes() {

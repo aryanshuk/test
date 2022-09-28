@@ -1,4 +1,4 @@
-serverIP = "43.205.206.244";
+serverIP = "containertooltest.ddns.net";
 
 function createVolume() {
     const http = new XMLHttpRequest();

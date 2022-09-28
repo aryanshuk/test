@@ -1,4 +1,4 @@
-serverIP = "43.205.206.244";
+serverIP = "containertooltest.ddns.net";
 
 function startDockerServices() {
     const http = new XMLHttpRequest();
